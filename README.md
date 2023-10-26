@@ -1,1 +1,1 @@
-## Решения челленджей с ресурса [testing challenges(http://testingchallenges.thetestingmap.org "testing challenges")
+## Решения челленджей с ресурса http://testingchallenges.thetestingmap.org 
